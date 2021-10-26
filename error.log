@@ -1,0 +1,19 @@
+{"message":{"ljfd":"12"},"level":"error","timestamp":"2021-10-17T15:01:27.627Z"}
+{"message":{"ljfd":"12"},"level":"error","timestamp":"2021-10-17T15:02:01.487Z"}
+{"message":{"ljfd":"1"},"level":"error","timestamp":"2021-10-17T15:02:09.304Z"}
+{"message":{"ljfd":"1"},"level":"error","timestamp":"2021-10-17T15:02:21.675Z"}
+{"message":"Register undefined with email undefined","level":"debug","timestamp":"2021-10-17 18:03:12","label":"index.js","metadata":{"packageId":"60d79841cd881f2df8aa2d13","networkId":"60d790155cd1252a205dceaf","userPay":"60d793688d990525483d3193","areaUserPay":"رقاب","packagePrice":200,"type_user":"userType1","notice":"المبلغ مدفوع مقدما","status":"buyCard","action":"register"}}
+{"message":{"ljfd":"1"},"level":"error","timestamp":"2021-10-17T15:03:12.495Z"}
+{"message":{"ljfd":"1"},"level":"error","timestamp":"2021-10-17T15:04:29.901Z"}
+{"message":{"ljfd":"1"},"level":"error","timestamp":"2021-10-17T15:06:31.029Z"}
+{"message":{"ljfd":"1"},"level":"error","timestamp":"2021-10-17T15:07:37.583Z"}
+{"message":{"ljfd":"1"},"level":"error","timestamp":"2021-10-17T15:08:23.295Z"}
+{"message":{"ljfd":"1"},"level":"error","timestamp":"2021-10-17T15:08:42.035Z"}
+{"message":{"ljfd":"1"},"level":"error","timestamp":"2021-10-17T15:08:42.645Z"}
+{"message":{"ljfd":"1"},"level":"error","timestamp":"2021-10-17T15:09:11.036Z"}
+{"message":{"ljfd":"1"},"level":"error","timestamp":"2021-10-17T15:09:11.760Z"}
+{"message":{"ljfd":"1"},"level":"error","timestamp":"2021-10-17T15:09:12.174Z"}
+{"message":{"ljfd":"1"},"level":"error","timestamp":"2021-10-17T15:10:52.176Z"}
+{"message":{"ljfd":"1"},"level":"error","timestamp":"2021-10-17T15:11:29.421Z"}
+{"message":"Error no connected to DatabaseMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017","level":"error","timestamp":"2021-10-18T01:58:07.586Z"}
+{"message":"Error no connected to DatabaseMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017","level":"error","timestamp":"2021-10-18T17:53:20.086Z"}
