@@ -73,8 +73,9 @@ mongoose.set('useCreateIndex', true)
 
 //3- git push -u origin master
 
-//
+vscode://vscode.github-authentication/did-authenticate?windowid=5&code=bc9f0036ed403377023b&state=f9420081-3e5c-4d0c-b035-117f6bf1811f
+//git config --global user.email "najeebaslan2019@gmail.com"
+// git config --global user.name "najeebaslan"
+//git branch -M master
 
-//https://github.com/najeebaslan/fd.git
-
-
+//git remote add origin https://github.com/najeebaslan/Test.git
